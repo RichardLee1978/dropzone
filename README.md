@@ -132,3 +132,5 @@ MIT License
 -----------
 
 See LICENSE file
+-----------
+  dropzone是一个支持拖放上传图片的库，它不依赖于jquery，浏览器支持到IE10或者以上。
